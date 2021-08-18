@@ -19,6 +19,4 @@ Algorithm used to test the processor (Hexadecimal)
 
 You can view and run this design in EDAplayground: https://www.edaplayground.com/x/MjrJ
 
-Arquitectura de Computadores
-Profesor: Jose Jaramillo
-Universidad Tecnológica de Pereira
+Arquitectura de Computadores, Profesor: Jose Jaramillo, Universidad Tecnológica de Pereira
